@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CodingChallengeLifecycle</string>
+    <string name="text_title_name">Shopping List</string>
+    <string name="button_add_item_text">Add Item</string>
+</resources>
